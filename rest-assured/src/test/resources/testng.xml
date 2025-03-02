@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OrangeHRM API Test Suite">
+    <test name="User Management API Tests">
+        <classes>
+            <class name="com.orangehrm.api.UserManagementApiTest"/>
+        </classes>
+    </test>
+</suite> 
